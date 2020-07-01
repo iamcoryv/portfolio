@@ -3316,6 +3316,10 @@ input, select, textarea {
       max-width: 350px !important;
       overflow: hidden !important;
     }
+    /* .projectImg {
+      max-height: 92%;
+      overflow: hidden;
+    } */
 
 /* Wrapper */
 
