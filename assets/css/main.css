@@ -3311,6 +3311,12 @@ input, select, textarea {
 
 		}
 
+    .me {
+      max-height: 350px;
+      max-width: 350px !important;
+      overflow: hidden !important;
+    }
+
 /* Wrapper */
 
 	#wrapper > * > .inner {
